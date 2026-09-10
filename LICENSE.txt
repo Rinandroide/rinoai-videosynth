@@ -1,0 +1,36 @@
+FREEWARE END USER LICENSE AGREEMENT (EULA)
+Application: RinoAI-VideoSynth
+Developer: Rino Petrozziello
+Copyright (c) 2026 Rino Petrozziello. All rights reserved.
+
+Please read this License Agreement carefully before installing or using the application "RinoAI-VideoSynth" (hereinafter referred to as the "Software"). Installing, copying, or using the Software constitutes full acceptance of the terms and conditions outlined herein.
+
+1. GRANT OF LICENSE
+The Author, Rino Petrozziello, grants you a non-exclusive, personal, non-transferable, and royalty-free license to download, install, and execute the Software on compatible devices owned by you, for personal, artistic, or professional purposes.
+
+2. RESTRICTIONS ON COPYING AND REDISTRIBUTION
+The Software is protected by copyright laws and international intellectual property treaties. You are strictly prohibited from:
+a) Copying, cloning, duplicating, reproducing, or imitating the Software, its underlying logic, embedded GLSL shaders, or graphical user interface, in whole or in part, to redistribute them as your own work or under another name.
+b) Distributing, publishing, uploading, or re-hosting the Software executable on third-party websites, digital marketplaces, or public repositories without the prior written consent of the Author. Downloads are authorized solely through the Author's official channels (www.rinopetrozziello.com).
+c) Selling, renting, leasing, sublicensing, or extracting direct commercial profit from the provision or distribution of copies of the Software itself.
+
+3. REVERSE ENGINEERING AND MODIFICATIONS
+You may not, under any circumstances, reverse engineer, decompile, disassemble, modify, adapt, or translate the Software executable, nor attempt in any way to extract, alter, or circumvent protections governing the underlying source code or embedded binary assets.
+
+4. INTELLECTUAL PROPERTY
+All copyrights, trademarks, trade secrets, and intellectual property rights associated with the Software (including, but not limited to, source code, GLSL shaders, fluid dynamics algorithms, user interface design, graphics, and logos) remain the sole and exclusive property of Rino Petrozziello.
+
+5. LICENSE ON GENERATED OUTPUT (ARTWORKS, VIDEOS & PERFORMANCES)
+The restrictions set forth in this Agreement apply strictly to the Software itself as a tool. Any visual output, video recordings, freeze-frames, live performances, or derived artworks generated through the use of the Software belong entirely and exclusively to you. You are free to use, reproduce, publish, broadcast, distribute, and monetize such creative works for both personal and commercial projects without restrictions or royalty obligations toward the Author.
+
+6. PRIVACY, SECURITY AND ZERO-TELEMETRY
+The Software operates entirely offline on the local host machine. It does not collect, store, or transmit personal data, hardware identifiers, or usage telemetry to remote servers.
+
+7. AUTOMATIC TERMINATION
+Failure to comply with any terms or conditions of this Agreement shall result in the automatic and immediate termination of this license, prohibiting any further use of the Software and without prejudice to the Author's right to seek legal remedies and damages.
+
+8. DISCLAIMER OF WARRANTY AND LIMITATION OF LIABILITY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF BUSINESS PROFITS, WORK STOPPAGE, OR LOSS OF DATA) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+9. GOVERNING LAW AND JURISDICTION
+This Agreement is governed by and construed in accordance with the laws of Italy. Any dispute arising out of or in connection with the interpretation, validity, execution, or breach of this Agreement shall be subject to the exclusive and mandatory jurisdiction of the Court of Avellino (Italy).

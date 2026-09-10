@@ -1,0 +1,36 @@
+CONTRATTO DI LICENZA D'USO GRATUITO (FREEWARE)
+Applicazione: RinoAI-VideoSynth
+Sviluppatore: Rino Petrozziello
+Copyright (c) 2026 Rino Petrozziello. Tutti i diritti riservati.
+
+Si prega di leggere attentamente il presente Contratto di Licenza prima di installare o utilizzare l'applicazione "RinoAI-VideoSynth" (di seguito denominata "Software"). L'installazione o l'uso del Software costituiscono accettazione integrale dei termini e delle condizioni qui descritti.
+
+1. CONCESSIONE DELLA LICENZA
+L'Autore, Rino Petrozziello, concede all'utente una licenza d'uso non esclusiva, personale, non trasferibile e gratuita per scaricare, installare ed eseguire il Software su dispositivi compatibili di propria proprietà, per scopi personali, artistici o professionali.
+
+2. RESTRIZIONI SULLA COPIA E SULLA RIDISTRIBUZIONE
+Il Software è protetto dalle leggi sul diritto d'autore e dai trattati internazionali sulla proprietà intellettuale. All'utente è severamente vietato:
+a) Copiare, clonare, duplicare, riprodurre o imitare interamente o in parte il Software, la sua logica, gli shader GLSL incorporati o la sua interfaccia grafica per ridistribuirli come opera propria o sotto altro nome.
+b) Distribuire, pubblicare, caricare o ridistribuire il file eseguibile del Software su siti web di terze parti, marketplace digitali o repository pubblici senza il preventivo consenso scritto dell'Autore. Il download è autorizzato unicamente tramite i canali ufficiali dell'Autore (www.rinopetrozziello.com).
+c) Vendere, noleggiare, concedere in locazione, sublicenziare o trarre profitto commerciale diretto dalla fornitura o distribuzione delle copie del Software stesso.
+
+3. REVERSE ENGINEERING E MODIFICHE
+All'utente non è consentito in alcun modo decodificare, decompilare, disassemblare, modificare, adattare o sottoporre a ingegneria inversa (reverse engineering) l'eseguibile del Software, né tentare in alcun modo di estrarre, alterare o aggirare le protezioni del codice sorgente o delle risorse incorporate.
+
+4. PROPRIETÀ INTELLETTUALE
+Tutti i diritti d'autore, i marchi, i segreti industriali e i diritti di proprietà intellettuale relativi al Software (compresi codice sorgente, shader GLSL, algoritmi di fluidodinamica, interfaccia utente, grafica e loghi) appartengono esclusivamente e interamente a Rino Petrozziello.
+
+5. LICENZA SULL'OUTPUT GENERATO (ARTWORK, VIDEO E PERFORMANCE)
+Le restrizioni del presente contratto si applicano unicamente al Software in quanto tale. Qualsiasi output visivo, registrazione video, fermo immagine, performance dal vivo o opera d'arte derivata generata mediante l'utilizzo del Software appartiene interamente all'utente. L'utente è libero di utilizzare, riprodurre, pubblicare, distribuire e monetizzare tali opere per scopi sia personali che commerciali senza alcun vincolo o obbligo di royalty nei confronti dell'Autore.
+
+6. PRIVACY, SICUREZZA E ASSENZA DI TELEMETRIA
+Il Software opera interamente in locale (offline) sulla macchina dell'utente. Non raccoglie, archivia né trasmette a server remoti dati personali, identificativi del dispositivo o statistiche d'uso.
+
+7. RISOLUZIONE AUTOMATICA
+Il mancato rispetto o la violazione di uno qualsiasi dei termini del presente Contratto comporterà la risoluzione automatica e immediata della licenza d'uso, con conseguente divieto di ulteriore utilizzo del Software e fatto salvo il diritto dell'Autore al risarcimento di eventuali danni.
+
+8. ESCLUSIONE DI GARANZIA E LIMITAZIONE DI RESPONSABILITÀ
+IL SOFTWARE VIENE FORNITO "COSÌ COM'È" (AS IS), SENZA GARANZIE DI ALCUN TIPO, ESPLICITE O IMPLICITE, INCLUSE, A TITOLO ESEMPLIFICATIVO, LE GARANZIE DI COMMERCIABILITÀ, IDONEITÀ PER UNO SCOPO SPECIFICO E NON VIOLAZIONE. IN NESSUN CASO L'AUTORE SARÀ RESPONSABILE PER EVENTUALI DANNI DIRETTI, INDIRETTI, INCIDENTALI O CONSEQUENZIALI (INCLUSI, SENZA LIMITAZIONE, DANNI PER PERDITA DI PROFITTI, INTERRUZIONE DI ATTIVITÀ O PERDITA DI DATI) DERIVANTI DALL'USO O DALL'INCAPACITÀ DI UTILIZZARE IL SOFTWARE.
+
+9. LEGGE APPLICABILE E FORO COMPETENTE
+Il presente Contratto è regolato e interpretato in conformità alla legge italiana. Per qualsiasi controversia derivante dall'interpretazione, validità, efficacia o esecuzione del presente accordo, sarà competente in via esclusiva ed inderogabile il Foro di Avellino (Italia).
