@@ -130,7 +130,7 @@ I file di installazione completi sono disponibili nella sezione GitHub Releases.
 This software is proprietary commercial software released under an **End User License Agreement (EULA)**.  
 All rights reserved. Unauthorized copying, reverse engineering, decompiling, or redistribution is strictly prohibited.
 
-Consult the included `LICENSE_EULA.txt` file for full terms and conditions.
+Consult the included `LICENZA.txt` file for full terms and conditions.
 
 ---
 
