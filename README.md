@@ -52,6 +52,11 @@ Driven by a real-time biomorphic fluid engine, **VideoSynth** combines non-linea
 
 ---
 
+## DEDICATED GPU OPTIMIZATION (NVIDIA RTX / RADEON RX)
+If you are using a powerful graphics card (e.g., NVIDIA RTX or AMD Radeon series), go to the "6. PERFORMANCE AND RENDERING" section of the control panel, uncheck "High Performance Mode," and set the "Resolution Scale" to the maximum (1.0 / 100%) to unlock maximum fractal octave depth, ray-marched shadows, and full native-resolution Ambient Occlusion.
+
+---
+
 ## 🚀 Download & Installation
 
 Standalone setup packages are distributed via GitHub Releases. **No compilation or additional runtimes required.**
@@ -110,6 +115,11 @@ Basato su un'architettura grafica biomorfa, **VideoSynth** fonde sistemi di reaz
 | **Sistema Operativo** | Windows 10 / 11 (64-bit) | macOS 10.15 (Catalina) o successivo |
 | **Architettura** | x86_64 | Intel (x86_64) & Apple Silicon (M1/M2/M3/M4) |
 | **GPU** | GPU Dedicata consigliata (NVIDIA / AMD) | Supporto grafico Metal / OpenGL |
+
+---
+
+## OTTIMIZZAZIONE GPU DEDICATE (NVIDIA RTX / RADEON RX)
+Se utilizzi una scheda grafica potente (es. serie NVIDIA RTX o AMD Radeon), apri la sezione "6. PRESTAZIONI E RENDERING" del pannello di controllo, disattiva la spunta su "Modalità Alte Prestazioni" e imposta la "Scala Risoluzione" al massimo (1.0 / 100%) per sbloccare la massima profondità delle ottave frattali, le ombre raymarched e l'Ambient Occlusion a piena risoluzione nativa.
 
 ---
 
