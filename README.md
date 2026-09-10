@@ -58,8 +58,8 @@ Standalone setup packages are distributed via GitHub Releases. **No compilation 
 
 1. Go to the latest [**GitHub Releases**](../../releases) page.
 2. Download the installer for your operating system:
-   * **Windows:** `RinoAI-VideoSynth-Setup-x64.exe` (or `.msi`)
-   * **macOS:** `RinoAI-VideoSynth-Installer.pkg` (or `.dmg` for Intel & Apple Silicon)
+   * **Windows:** `RinoAI-VideoSynth-Setup-x64.exe`
+   * **macOS:** `RinoAI-VideoSynth-macOS-Universal.dmg` (for Intel & Apple Silicon)
 3. Run the installer and launch **RinoAI - VideoSynth**.
 
 ---
@@ -119,8 +119,8 @@ I file di installazione completi sono disponibili nella sezione GitHub Releases.
 
 1. Visita la sezione [**GitHub Releases**](../../releases).
 2. Scarica il file di installazione compatibile con il tuo sistema:
-   * **Windows:** `RinoAI-VideoSynth-Setup-x64.exe` (o `.msi`)
-   * **macOS:** `RinoAI-VideoSynth-Installer.pkg` (o `.dmg`)
+   * **Windows:** `RinoAI-VideoSynth-Setup-x64.exe`
+   * **macOS:** `RinoAI-VideoSynth-macOS-Universal.dmg`
 3. Esegui il setup e avvia **RinoAI - VideoSynth**.
 
 ---
